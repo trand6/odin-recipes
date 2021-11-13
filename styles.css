@@ -1,0 +1,8 @@
+a:hover { 
+    color: black   
+} 
+
+.food {
+    background: rgb(221,151,145);
+    background: linear-gradient(347deg, rgba(221,151,145,1) 0%, rgba(226,156,156,1) 56%, rgba(210,83,83,1) 100%);
+}
