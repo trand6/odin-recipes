@@ -1,3 +1,6 @@
-# odin-recipes
+# Vietnamese Recipes
 
-This is just a project to practice HTML using Vietnamese recipes!
+The Odin Project assignment to practice HTML using Vietnamese recipes!
+
+# Demo
+![](recipes.gif)
